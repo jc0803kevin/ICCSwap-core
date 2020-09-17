@@ -1,13 +1,13 @@
 {
   "name": "@iccswap/core",
-  "description": "🎛 Core contracts for the ICCSwap protocol",
-  "version": "1.0.0",
+  "description": "Core contracts for the ICCSwap protocol",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/jc0803kevin/ICCSwap-core"
   },
   "keywords": [
-    "ICCSwap",
+    "iccswap",
     "ethereum",
     "core"
   ],
